@@ -6,6 +6,6 @@ int N = Convert.ToInt32(Console.ReadLine());
 
 for(int i =1;i<=N; i++)
 {
-   Console.WriteLine($"{i*i*i}");
+     Console.WriteLine($"{i*i*i}");
   // Console.WriteLine("{0}^3",i,i*i*i);
 }
